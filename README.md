@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AroJohnBritto&label=Profile%20views&color=grey&style=plastic" alt="AroJohnBritto" /> </p>
 
 
-- 📈 My current role **Data Processing Analyst**
+- 📈 My current role : **Data Processing Analyst**
 
-- 📊 Ask me about **SQL, PowerBi, Excel, Tableau, Python, Google Sheets, Data cleaning, Data Manipulating**
+- 📊 Ask me about - **SQL, PowerBi, Excel, Tableau, Python, Google Sheets, Data cleaning, Data Manipulating**
 
-- 😎 How to reach me **arojohnbritto@gmail.com**
+- 😎 How to reach me : **arojohnbritto@gmail.com**
